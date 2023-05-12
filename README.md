@@ -35,3 +35,10 @@ localhost:3000/api/V2/seed
 ## Stack usado
 * MongoDB
 * Nest
+
+#Notas
+Railway redeploy sin cambios:
+```
+git commit -m "mensaje de los cambios subidos"
+git push origin <master|main>
+```
